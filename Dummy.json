@@ -10,9 +10,7 @@
       "volume": "1",
       "last_updated": "1716040068",
       "groups": {
-        "Dummy": [
-          "https://imgur.com/a/hcLpMpw"
-        ]
+        "Dummy": "https://imgur.com/a/hcLpMpw"
       }
     },
     "2": {
@@ -20,9 +18,7 @@
       "volume": "1",
       "last_updated": "1716040111",
       "groups": {
-        "Dummy": [
-          "https://imgur.com/a/Fru1THb"
-        ]
+        "Dummy": "https://imgur.com/a/Fru1THb"
       }
     },
     "3": {
@@ -30,9 +26,7 @@
       "volume": "1",
       "last_updated": "1716040144",
       "groups": {
-        "Dummy": [
-          "https://imgur.com/a/JAEnnlr"
-        ]
+        "Dummy": "https://imgur.com/a/JAEnnlr"
       }
     }
   }
