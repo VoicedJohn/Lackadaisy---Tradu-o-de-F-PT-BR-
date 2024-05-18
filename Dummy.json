@@ -10,7 +10,10 @@
       "volume": "1",
       "last_updated": "1716039649",
       "groups": {
-        "Dummy one": "/proxy/api/imgur/chapter/hcLpMpw"
+        "Dummy one": [
+          "https://imgur.com/a/hcLpMpw",
+          "https://imgur.com/a/Fru1THb"
+        ]
       }
     }
   }
