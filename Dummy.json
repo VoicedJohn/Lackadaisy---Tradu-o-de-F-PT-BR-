@@ -1,0 +1,39 @@
+{
+  "title": "Dummy",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "artist": "John",
+  "author": "John",
+  "cover": "https://m.media-amazon.com/images/I/41VlTbE15dL._AC_UF894,1000_QL80_.jpg",
+  "chapters": {
+    "1": {
+      "title": "This is the firts and second only",
+      "volume": "1",
+      "last_updated": "1716040068",
+      "groups": {
+        "Dummy": [
+          "https://imgur.com/a/hcLpMpw"
+        ]
+      }
+    },
+    "2": {
+      "title": "This includes the third one only",
+      "volume": "1",
+      "last_updated": "1716040111",
+      "groups": {
+        "Dummy": [
+          "https://imgur.com/a/Fru1THb"
+        ]
+      }
+    },
+    "3": {
+      "title": "This includes the 4 one",
+      "volume": "1",
+      "last_updated": "1716040144",
+      "groups": {
+        "Dummy": [
+          "https://imgur.com/a/JAEnnlr"
+        ]
+      }
+    }
+  }
+}
